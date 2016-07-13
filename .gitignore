@@ -1,0 +1,6 @@
+# ignore vim swapfiles
+*~
+*.swp
+
+# also pay no heed to compiled python
+*.pyc
