@@ -1,0 +1,4 @@
+# I still don't want to store binaries in my repos.
+
+# Much less Microsoft ones.
+*.xlsx
